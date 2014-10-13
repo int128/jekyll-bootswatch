@@ -1,0 +1,17 @@
+markdown: redcarpet
+pygments: true
+redcarpet:
+  extensions: [ "no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data" ]
+
+title: Jekyll and Bootswatch template
+url: https://int128.github.io/jekyll-bootswatch/
+
+links:
+  - title: Example
+    url: example.html
+
+right_links:
+  - title: View on GitHub
+    url: https://github.com/int128/jekyll-bootswatch
+
+repo: https://github.com/int128/jekyll-bootswatch
